@@ -87,7 +87,7 @@ const enviarFormulario = async (event) => {
         aiResponse.querySelector('.response-content').innerHTML = markdownToHTML(text)
         aiResponse.classList.remove('hidden');
     } catch(error){
-        console.log('Erro: ', error)
+        alert('Chave API inválida')
 
     } finally{
         askButton.disabled = false;
