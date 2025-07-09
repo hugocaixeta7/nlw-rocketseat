@@ -26,13 +26,12 @@ const perguntarIA = async (question, game, apiKey) => {
             -Considere a data atual ${new Date().toLocaleDateString()}
             -Faça pesquisas atualizadas sobre o patch atual, baseado no jogo e a data atual.
             -Nunca responda itens que você não tenha certeza de que existe no patch atual.
-            -Responda sempre em português(pt-BR).
+            -Responda sempre com o nome dos itens e runas em português (não inglês). 
             
         ## Resposta
             -Economize na resposta, seja direto e responda no maximo 500 caracteres. 
             -Responda em markdown
             -Não precdisa fazer nenhuma saudação ou despedida, apenas responda o que o usuário perguntou.
-            -Responda sempre em português(pt-BR).
 
         ## Exemplo de resposta
             Pergunta do uuário: Melhor build para Vayne ADC
