@@ -21,6 +21,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **Gemini API**  
 
 
+## 🌐 Acesse o projeto
+
+➡️ [Clique aqui para acessar o Assistente de Meta]([https://seu-usuario.github.io/assistente-de-meta/](https://hugocaixeta7.github.io/nlw-rocketseat/))
 
 
 
