@@ -2,8 +2,6 @@
 
 Este projeto foi desenvolvido durante o **NLW Agents** da [Rocketseat](https://www.rocketseat.com.br/) e tem como objetivo ajudar jogadores a encontrarem as melhores estratégias, builds e dicas para jogos específicos.  
 
-![Página do Projeto](https://hugocaixeta7.github.io/nlw-rocketseat/)
-
 ---
 
 ## ✨ Funcionalidades
