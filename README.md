@@ -23,7 +23,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🌐 Acesse o projeto
 
-➡️ [Clique aqui para acessar o Assistente de Meta]([https://seu-usuario.github.io/assistente-de-meta/](https://hugocaixeta7.github.io/nlw-rocketseat/))
+➡️ https://hugocaixeta7.github.io/nlw-rocketseat/
+
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT.
 
 
 
