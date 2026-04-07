@@ -1,10 +1,10 @@
-# 🎮 Assistente de Meta - NLW Agents
+# Assistente de Meta - NLW Agents
 
 Este projeto foi desenvolvido durante o **NLW Agents** da [Rocketseat](https://www.rocketseat.com.br/) e tem como objetivo ajudar jogadores a encontrarem as melhores estratégias, builds e dicas para jogos específicos.  
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Consulta de builds otimizadas para campeões/heróis de diversos jogos.  
 - Sugestões de estratégias de acordo com o meta atual.  
@@ -12,7 +12,7 @@ Este projeto foi desenvolvido durante o **NLW Agents** da [Rocketseat](https://w
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -21,12 +21,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **Gemini API**  
 
 
-## 🌐 Acesse o projeto
+## Acesse o projeto
 
-➡️ https://hugocaixeta7.github.io/nlw-rocketseat/
+https://hugocaixeta7.github.io/nlw-rocketseat/
 
 
-## 📜 Licença
+## Licença
 
 Este projeto está sob a licença MIT.
 
